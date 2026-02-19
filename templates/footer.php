@@ -13,7 +13,7 @@
                             </svg>
                         </div>
                         <span class="font-semibold text-base tracking-tight">
-                            <span class="text-white">ANNUAIRE</span><span class="text-primary-400">-CHAMBRES-HOTES.FR</span>
+                            <span class="text-white">ANNUAIRE</span><span class="text-primary-400">-FRANCE-HOTEL.FR</span>
                         </span>
                     </a>
                     <p class="text-sm text-gray-400 mb-4">
