@@ -1,0 +1,12 @@
+{
+  "name": "annuaire-france-hotel",
+  "version": "1.0.0",
+  "description": "AnnuaireFranceHotel - SEO optimized",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./assets/css/style.css --minify",
+    "watch:css": "tailwindcss -i ./src/input.css -o ./assets/css/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
